@@ -23,7 +23,7 @@
 14.	2 boyutlu bir vektor ve bir matris olusturun(ayri ayri), bu iki arrayi numpy metodlarini kullanarak sutun bazli birlestiriniz,
 15.	Numpy’da “axis=1” ve “axis=0”  arasinda ne fark vardir. Teorik olarak yaziniz?  
 16.	Farkli boyutlardaki arraylari satin ve sutun bazli ayri ayri birlestiriniz.
-17.	10 elemanli bi liste olusturunuz ve bu listeyi Numpy metodlariyla bolerek(split) 4 ayri array olusturunuz.
+17.	10 elemanli bi liste olusturunuz ve bu listeyi Numpy metodlariyla bolerek(split) 5 ayri array olusturunuz.
 18.	Random bir array olusturunuz ve bu arrayi buyukten kucuge dogru siralayiniz.Ve bu siralamadan sonra hangi elemanin hangi indexte oldugunu gosteren bir metod uygulayiniz.
 19.	20 elemanli random bir vektor olusturunuz. Bu vektorun 3. 5. ve 7. elemanlarina ulasin.
 20.	10 elemanli random bir vektor olusturunuz ve bu arrayin  4. elemanini farkli bir sayiyla degistiriniz.
