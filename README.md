@@ -31,22 +31,21 @@
 22.	5x5’lik Diagonal bir matris olusturunuz ve Diagonaline denk gelen indexlere ulasiniz.(ayri ayri)
 23.	10 ile 20 arasinda bir vektor olusturunuz. Ve 3. indexten son indexe kadar olan degerleri yazdiriniz.
 24.	10X10 luk bir matris olusturunuz ve ;
-* satir ve 5.sutuna ulasiniz.
-* sutunun tum satirlarina ulasiniz.
+* 3.satir ve 5.sutuna ulasiniz.
+* 5.sutunun tum satirlarina ulasiniz.
 * Tum sutunlarin 2.satirlarina ulasiniz.
 * tum sutunlarin 2 ile 7 arasindaki satirlarina ulasiniz.
 * satir indexi 2’den 5’e ve sutun indexi 3 den 7’ye kadar olan degerlere ulasiniz.
 * satir indexi 5’den en sona ve sutun indexi en bastan 4’e kadar olan degerlere ulasiniz.
-* sutun indexi sadece 3, 6,9 olan kolonlarin(sutunlarin), tum satirlarina ulasiniz.
-* indexli satir ve 5.indexli sutuna denk gelen degeri, dogum yilinizla degistiriniz. 
+* sutun indexi sadece 3, 6, 9 olan kolonlarin(sutunlarin), tum satirlarina ulasiniz.
+* 5.indexli satir ve 5.indexli sutuna denk gelen degeri, dogum yilinizla degistiriniz. 
 25.	0’dan 50’ye kadar 5’er 5’er atlayarak giden bir array olusturunuz(tek boyutlu) ve numpy metodlariyla asagidaki islemleri uygulayin;
 * 20 den buyuk olan kac deger var.
 * 30’dan kucuk kac deger var
 * icerisinde 33 gecen kac deger var
 * olusturulan arrayin tum elemanlarini 5 ile carpin.
 * olusturulan arrayin tum elemanlarinin 2 ile bolumunden kalanlari yazdiriniz.
-* olustural arrayin icerisinde, sadece sutunlara bakarak her bir sutunu toplayin ve toplami 30 dan buyuk kac sutun var
-* olustural arrayin icerisinde, sadece satirlara bakarak her bir satiri toplayin ve toplami 30 dan buyuk kac satir var.
+
 26.	0 ile 1 arasinda 50 elamanli bir array olusturunuz ve;
 * orlamasini aliniz.
 * standart sapmasini aliniz.
