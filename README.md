@@ -27,7 +27,7 @@
 18.	Random bir array olusturunuz ve bu arrayi buyukten kucuge dogru siralayiniz.Ve bu siralamadan sonra hangi elemanin hangi indexte oldugunu gosteren bir metod uygulayiniz.
 19.	20 elemanli random bir vektor olusturunuz. Bu vektorun 3. 5. ve 7. elemanlarina ulasin.
 20.	10 elemanli random bir vektor olusturunuz ve bu arrayin  4. elemanini farkli bir sayiyla degistiriniz.
-21.	“Diagonal Matrix” ve “Trace Matrix”  kavramlari hakkinda kucuk bir arastirma yapip bunlarin ne oldugunu belirten kucuk bir aciklama yaziniz.
+21.	“Diagonal Matrix” ve “Trace of Matrix”  kavramlari hakkinda kucuk bir arastirma yapip bunlarin ne oldugunu belirten kucuk bir aciklama yaziniz.
 22.	5x5’lik Diagonal bir matris olusturunuz ve Diagonaline denk gelen indexlere ulasiniz.(ayri ayri)
 23.	10 ile 20 arasinda bir vektor olusturunuz. Ve 3. indexten son indexe kadar olan degerleri yazdiriniz.
 24.	10X10 luk bir matris olusturunuz ve ;
